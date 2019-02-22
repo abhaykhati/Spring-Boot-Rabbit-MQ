@@ -1,2 +1,1 @@
-# spring-boot-rabbit-mq
-Spring boot + Rabbit MQ 
+Spring Boot + Rabbit MQ 
